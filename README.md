@@ -51,5 +51,21 @@ Product Analytics, Business Analytics, KPI Identification, Metrics Frameworks, A
 ## Project Type
 Product Analytics Case Study
 
+## Project Deliverables
+
+### Detailed Presentation
+The presentation explains the AARRR framework, product metrics, calculation formulas, illustrative examples, business interpretation, and recommended next steps.
+
+[View the PowerPoint presentation](Zoom_Product_Metrics_Detailed_Portfolio.pptx)
+
+### Detailed Project Report
+The report provides metric definitions, formulas, worked examples, data requirements, limitations, and recommendations.
+
+[Read the detailed report](Zoom_Product_Metrics_Detailed_Report.pdf)
+
+## Important Note
+
+This is a conceptual product analytics case study. The numerical examples are illustrative and do not represent actual Zoom company performance or internal data.
+
 ## Author
 Sakshi Ghodeswar
